@@ -39,9 +39,7 @@ Usa Live Server en VS Code, o desde la carpeta del proyecto: `python -m http.ser
 
 ## Publicar en GitHub Pages
 
-1. Sube el proyecto a un repositorio público.
-2. En **Settings → Pages**, elige la rama `main` y la carpeta raíz (`/`).
-3. Espera un par de minutos y abre la URL en una ventana de incógnito.
+https://jhoselinegrjalva1101.github.io/TRABAJO-FINAL/
 
 ## Registro de prompts de IA
 
